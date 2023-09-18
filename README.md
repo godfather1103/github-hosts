@@ -1,26 +1,19 @@
 
 ## GitHub 访问速度慢，图片无法加载？一劳永逸的解决方法
 
- 
-![GitHub top language](https://img.shields.io/github/languages/top/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/知乎-@isevenluo-red.svg)](https://www.zhihu.com/people/ccgogoing)
-[![](https://img.shields.io/badge/content-@hosts-blue.svg?style=plastic)](https://github.com/isevenluo/github-hosts)
-[![](https://img.shields.io/badge/视频教程-@小破站-ff69b4.svg?style=plastic)](https://www.bilibili.com/video/BV1364y127vw/)
-
-
 不知道从什么时候我访问github就无法展示图片了，而且有时候（尤其晚上）打开网页速度慢,这个项目就是为了一劳永逸的解决问题.
 
 **应用后的效果就是：网页打开快了，`Github` 图片可以正常加载。**
 
 本项目会实时更新最新的 `hosts` , 你不用在每次去网上找那些可能已经过期的，所以给个 `star` 不迷路。
 
-- 站点地址：[https://github.com/isevenluo/github-hosts](https://github.com/isevenluo/github-hosts)
+- 站点地址：[https://github.com/godfather1103/github-hosts](https://github.com/godfather1103/github-hosts)
 
 ## 使用方法
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年9月18日 下午3:57:26
+内容定时更新，最近更新时间：2023年9月18日 下午4:18:40
 
 ```javascript
 # GitHub Host Start
@@ -158,8 +151,8 @@
 185.199.110.133               objects.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 
-# Please Star: https://github.com/isevenluo/github-hosts
-# Update at: 2023年9月18日 下午3:57:26
+# Please Star: https://github.com/godfather1103/github-hosts
+# Update at: 2023年9月18日 下午4:18:40
 
 # GitHub Host End
 ```
@@ -212,7 +205,7 @@ ipconfig /flushdns
 
 放一张软件的截图，还是很简约好用的。
 
-<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428201021.png" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/godfather1103/pic-bed@master/img/20210428201021.png" style="zoom:50%;" />
 
 这款软件支持 `Windwos` 和 `macOS` 系统，使用方式时一样的。
 
@@ -224,16 +217,16 @@ ipconfig /flushdns
 
 - Hosts类型：远程
 - Hosts标题：github-hosts（自定义即可）
-- URL：[https://github.com/isevenluo/github-hosts/raw/master/hosts](https://github.com/isevenluo/github-hosts/raw/master/hosts)
+- URL：[https://github.com/godfather1103/github-hosts/raw/master/hosts](https://github.com/godfather1103/github-hosts/raw/master/hosts)
 - 自动刷新：1小时
 
-<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/godfather1103/pic-bed@master/img/20210428221655.png" style="zoom: 50%;" />
 
 这样你就可以定时获取最新的 `hosts` 了，再也不用担心 `github` 无法访问，图片加载不了了。
 
 > PS：记着不要忘记点击侧边栏的开关哦～～
 
-<img src="https://cdn.jsdelivr.net/gh/isevenluo/pic-bed@master/img/20210428223116.png" alt="image-20210428223111467" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/godfather1103/pic-bed@master/img/20210428223116.png" alt="image-20210428223111467" style="zoom:50%;" />
 
 
 
