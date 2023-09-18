@@ -18,7 +18,7 @@ else
     mvn clean package -DskipTests
 fi
 
-java -jar target/github-hosts-1.0-SNAPSHOT.jar
+$JAVA_HOME/bin/java -jar target/github-hosts-1.0-SNAPSHOT.jar
 
 # 记录任务完成的时间
 echo '完成时间：' `date` >> ./runLog
