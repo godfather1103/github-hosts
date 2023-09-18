@@ -21,7 +21,8 @@
 
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
-                <configuration>
+                <version>2.5.5</version>
+		<configuration>
                     <appendAssemblyId>false</appendAssemblyId>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
