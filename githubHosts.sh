@@ -1,5 +1,4 @@
-#! /bin/zsh
-source ~/.zshrc
+#! /bin/bash
 # 记录脚本开始执行时间
 echo '========= githubHosts任务开始执行时间 ======' `date` >> ./runLog
 # 执行自定义的脚本，我这里是一个java代码实现
