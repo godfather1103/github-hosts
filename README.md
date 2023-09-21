@@ -13,7 +13,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年9月21日 上午10:25:35
+内容定时更新，最近更新时间：2023年9月21日 上午11:25:50
 
 ```javascript
 # GitHub Host Start
@@ -115,6 +115,7 @@
 54.231.196.57                 github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.225.105                github-production-release-asset-2e65be.s3.amazonaws.com
 54.231.230.177                github-production-release-asset-2e65be.s3.amazonaws.com
+10.0.0.138                    github-production-user-asset-6210df.s3.amazonaws.com
 3.5.27.219                    github-production-user-asset-6210df.s3.amazonaws.com
 16.182.67.121                 github-production-user-asset-6210df.s3.amazonaws.com
 52.216.37.17                  github-production-user-asset-6210df.s3.amazonaws.com
@@ -152,7 +153,7 @@
 185.199.111.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/godfather1103/github-hosts
-# Update at: 2023年9月21日 上午10:25:35
+# Update at: 2023年9月21日 上午11:25:50
 
 # GitHub Host End
 ```
