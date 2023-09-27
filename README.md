@@ -13,7 +13,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年9月18日 下午4:54:19
+内容定时更新，最近更新时间：2023年9月27日 下午12:04:19
 
 ```javascript
 # GitHub Host Start
@@ -22,7 +22,7 @@
 185.199.109.154               github.githubassets.com
 185.199.110.154               github.githubassets.com
 185.199.111.154               github.githubassets.com
-140.82.112.22                 central.github.com
+140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.110.133               desktop.githubusercontent.com
@@ -43,13 +43,13 @@
 151.101.65.194                github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
-140.82.114.3                  gist.github.com
+140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 185.199.109.153               github.io
 185.199.110.153               github.io
 185.199.111.153               github.io
-140.82.114.3                  github.com
-140.82.113.5                  api.github.com
+140.82.113.3                  github.com
+140.82.113.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
@@ -90,47 +90,47 @@
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
-140.82.112.10                 codeload.github.com
-3.5.1.111                     github-cloud.s3.amazonaws.com
-3.5.6.141                     github-cloud.s3.amazonaws.com
-3.5.20.10                     github-cloud.s3.amazonaws.com
-16.182.41.137                 github-cloud.s3.amazonaws.com
-52.216.249.12                 github-cloud.s3.amazonaws.com
-52.217.12.164                 github-cloud.s3.amazonaws.com
-52.217.122.249                github-cloud.s3.amazonaws.com
-52.217.236.193                github-cloud.s3.amazonaws.com
-3.5.29.206                    github-com.s3.amazonaws.com
-3.5.29.250                    github-com.s3.amazonaws.com
-52.216.239.147                github-com.s3.amazonaws.com
-52.217.17.76                  github-com.s3.amazonaws.com
-54.231.162.249                github-com.s3.amazonaws.com
-54.231.193.97                 github-com.s3.amazonaws.com
-54.231.203.193                github-com.s3.amazonaws.com
-54.231.232.193                github-com.s3.amazonaws.com
-3.5.25.82                     github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.29.219                    github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.74.172                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.132.121                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.254.41                 github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.196.57                 github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.225.105                github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.230.177                github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.219                    github-production-user-asset-6210df.s3.amazonaws.com
-16.182.67.121                 github-production-user-asset-6210df.s3.amazonaws.com
-52.216.37.17                  github-production-user-asset-6210df.s3.amazonaws.com
-52.216.207.107                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.9.92                   github-production-user-asset-6210df.s3.amazonaws.com
-52.217.105.180                github-production-user-asset-6210df.s3.amazonaws.com
-54.231.140.89                 github-production-user-asset-6210df.s3.amazonaws.com
-54.231.230.129                github-production-user-asset-6210df.s3.amazonaws.com
-3.5.20.102                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.130.27                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.0.172                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.105.100                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.194.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.192.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.202.41                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.230.65                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+140.82.113.9                  codeload.github.com
+3.5.25.226                    github-cloud.s3.amazonaws.com
+3.5.29.219                    github-cloud.s3.amazonaws.com
+52.216.50.249                 github-cloud.s3.amazonaws.com
+52.216.134.211                github-cloud.s3.amazonaws.com
+52.217.71.76                  github-cloud.s3.amazonaws.com
+52.217.172.73                 github-cloud.s3.amazonaws.com
+52.217.234.65                 github-cloud.s3.amazonaws.com
+54.231.161.145                github-cloud.s3.amazonaws.com
+16.182.73.65                  github-com.s3.amazonaws.com
+52.216.114.147                github-com.s3.amazonaws.com
+52.216.176.219                github-com.s3.amazonaws.com
+52.216.241.76                 github-com.s3.amazonaws.com
+52.217.9.140                  github-com.s3.amazonaws.com
+52.217.103.180                github-com.s3.amazonaws.com
+52.217.206.113                github-com.s3.amazonaws.com
+54.231.199.121                github-com.s3.amazonaws.com
+3.5.19.145                    github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.20.19                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.193                    github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.170.59                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.45.68                  github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.135.177                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.160.209                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.197.57                 github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.115                    github-production-user-asset-6210df.s3.amazonaws.com
+52.216.32.1                   github-production-user-asset-6210df.s3.amazonaws.com
+52.216.50.225                 github-production-user-asset-6210df.s3.amazonaws.com
+52.216.54.169                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.113.161                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.135.249                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.224.153                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.130.25                 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.10.23                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.99.83                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.33.212                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.36.100                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.88.76                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.173.65                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.206.73                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.204.113                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 185.199.109.153               githubstatus.com
 185.199.110.153               githubstatus.com
@@ -152,7 +152,7 @@
 185.199.111.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/godfather1103/github-hosts
-# Update at: 2023年9月18日 下午4:54:19
+# Update at: 2023年9月27日 下午12:04:19
 
 # GitHub Host End
 ```
