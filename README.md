@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年9月29日 下午9:25:42
+内容定时更新，最近更新时间：2023年9月29日 下午10:26:07
 
 ```javascript
 # GitHub Host Start
@@ -24,7 +24,6 @@
 185.199.109.154               github.githubassets.com
 185.199.110.154               github.githubassets.com
 185.199.111.154               github.githubassets.com
-10.0.0.3                      central.github.com
 140.82.113.22                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.109.133               desktop.githubusercontent.com
@@ -38,7 +37,6 @@
 185.199.109.133               camo.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
-10.0.0.3                      github.map.fastly.net
 185.199.108.133               github.map.fastly.net
 185.199.109.133               github.map.fastly.net
 185.199.110.133               github.map.fastly.net
@@ -47,7 +45,6 @@
 151.101.65.194                github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
-10.0.0.3                      gist.github.com
 140.82.112.3                  gist.github.com
 185.199.108.153               github.io
 185.199.109.153               github.io
@@ -95,7 +92,6 @@
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
-10.0.0.3                      codeload.github.com
 140.82.113.9                  codeload.github.com
 3.5.25.226                    github-cloud.s3.amazonaws.com
 3.5.29.219                    github-cloud.s3.amazonaws.com
@@ -160,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年9月29日 下午9:25:42
+# Update at: 2023年9月29日 下午10:26:07
 
 # GitHub Host End
 ```
