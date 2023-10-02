@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年10月3日 上午1:36:59
+内容定时更新，最近更新时间：2023年10月3日 上午2:25:30
 
 ```javascript
 # GitHub Host Start
@@ -37,6 +37,10 @@
 185.199.109.133               camo.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+185.199.109.133               github.map.fastly.net
+185.199.110.133               github.map.fastly.net
+185.199.111.133               github.map.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
@@ -84,6 +88,11 @@
 185.199.109.133               avatars0.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
+140.82.112.10                 codeload.github.com
 3.5.25.226                    github-cloud.s3.amazonaws.com
 3.5.29.219                    github-cloud.s3.amazonaws.com
 52.216.50.249                 github-cloud.s3.amazonaws.com
@@ -139,11 +148,15 @@
 185.199.110.133               cloud.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
+185.199.108.133               objects.githubusercontent.com
+185.199.109.133               objects.githubusercontent.com
+185.199.110.133               objects.githubusercontent.com
+185.199.111.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年10月3日 上午1:36:59
+# Update at: 2023年10月3日 上午2:25:30
 
 # GitHub Host End
 ```
