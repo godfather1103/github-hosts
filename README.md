@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年10月11日 上午9:26:12
+内容定时更新，最近更新时间：2023年10月11日 上午10:26:04
 
 ```javascript
 # GitHub Host Start
@@ -37,6 +37,7 @@
 185.199.109.133               camo.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+192.168.1.20                  github.map.fastly.net
 185.199.108.133               github.map.fastly.net
 185.199.109.133               github.map.fastly.net
 185.199.110.133               github.map.fastly.net
@@ -56,7 +57,6 @@
 185.199.109.133               raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
-192.168.1.20                  user-images.githubusercontent.com
 185.199.108.133               user-images.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
@@ -69,7 +69,6 @@
 185.199.109.133               avatars5.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
-192.168.1.20                  avatars4.githubusercontent.com
 185.199.108.133               avatars4.githubusercontent.com
 185.199.109.133               avatars4.githubusercontent.com
 185.199.110.133               avatars4.githubusercontent.com
@@ -90,7 +89,6 @@
 185.199.109.133               avatars0.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
-192.168.1.20                  avatars.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
@@ -159,7 +157,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年10月11日 上午9:26:12
+# Update at: 2023年10月11日 上午10:26:04
 
 # GitHub Host End
 ```
