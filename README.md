@@ -15,12 +15,11 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年10月23日 上午10:25:40
+内容定时更新，最近更新时间：2023年10月23日 上午11:26:51
 
 ```javascript
 # GitHub Host Start
 
-192.168.1.141                 github.githubassets.com
 185.199.108.154               github.githubassets.com
 185.199.109.154               github.githubassets.com
 185.199.110.154               github.githubassets.com
@@ -38,7 +37,6 @@
 185.199.109.133               camo.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
-192.168.1.141                 github.map.fastly.net
 185.199.108.133               github.map.fastly.net
 185.199.109.133               github.map.fastly.net
 185.199.110.133               github.map.fastly.net
@@ -62,7 +60,6 @@
 185.199.109.133               user-images.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
 185.199.111.133               user-images.githubusercontent.com
-192.168.1.141                 favicons.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 185.199.109.133               favicons.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
@@ -104,7 +101,6 @@
 52.217.97.212                 github-cloud.s3.amazonaws.com
 52.217.133.89                 github-cloud.s3.amazonaws.com
 54.231.195.41                 github-cloud.s3.amazonaws.com
-192.168.1.141                 github-com.s3.amazonaws.com
 3.5.16.103                    github-com.s3.amazonaws.com
 3.5.29.112                    github-com.s3.amazonaws.com
 16.182.96.137                 github-com.s3.amazonaws.com
@@ -152,6 +148,7 @@
 185.199.110.133               cloud.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
+192.168.1.141                 objects.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
@@ -160,7 +157,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年10月23日 上午10:25:40
+# Update at: 2023年10月23日 上午11:26:51
 
 # GitHub Host End
 ```
