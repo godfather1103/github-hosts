@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年11月13日 上午12:33:11
+内容定时更新，最近更新时间：2023年11月13日 上午1:30:13
 
 ```javascript
 # GitHub Host Start
@@ -92,6 +92,7 @@
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
+140.82.114.9                  codeload.github.com
 3.5.6.204                     github-cloud.s3.amazonaws.com
 3.5.25.244                    github-cloud.s3.amazonaws.com
 3.5.28.148                    github-cloud.s3.amazonaws.com
@@ -124,6 +125,14 @@
 52.216.57.49                  github-production-user-asset-6210df.s3.amazonaws.com
 52.216.171.179                github-production-user-asset-6210df.s3.amazonaws.com
 54.231.133.1                  github-production-user-asset-6210df.s3.amazonaws.com
+3.5.1.140                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.11.212                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.19.151                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.62.57                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.86.139                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.65.140                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.100.100                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.217.160.193                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 185.199.109.153               githubstatus.com
 185.199.110.153               githubstatus.com
@@ -147,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年11月13日 上午12:33:11
+# Update at: 2023年11月13日 上午1:30:13
 
 # GitHub Host End
 ```
