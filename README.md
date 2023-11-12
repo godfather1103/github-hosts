@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年11月12日 下午9:26:41
+内容定时更新，最近更新时间：2023年11月12日 下午10:26:01
 
 ```javascript
 # GitHub Host Start
@@ -92,7 +92,7 @@
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
-140.82.113.10                 codeload.github.com
+140.82.114.9                  codeload.github.com
 3.5.6.204                     github-cloud.s3.amazonaws.com
 3.5.25.244                    github-cloud.s3.amazonaws.com
 3.5.28.148                    github-cloud.s3.amazonaws.com
@@ -156,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年11月12日 下午9:26:41
+# Update at: 2023年11月12日 下午10:26:01
 
 # GitHub Host End
 ```
