@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2023年12月11日 上午8:34:16
+内容定时更新，最近更新时间：2023年12月11日 上午9:25:49
 
 ```javascript
 # GitHub Host Start
@@ -24,6 +24,7 @@
 185.199.109.154               github.githubassets.com
 185.199.110.154               github.githubassets.com
 185.199.111.154               github.githubassets.com
+140.82.112.21                 central.github.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.110.133               desktop.githubusercontent.com
@@ -32,6 +33,18 @@
 185.199.109.153               assets-cdn.github.com
 185.199.110.153               assets-cdn.github.com
 185.199.111.153               assets-cdn.github.com
+185.199.108.133               camo.githubusercontent.com
+185.199.109.133               camo.githubusercontent.com
+185.199.110.133               camo.githubusercontent.com
+185.199.111.133               camo.githubusercontent.com
+185.199.108.133               github.map.fastly.net
+185.199.109.133               github.map.fastly.net
+185.199.110.133               github.map.fastly.net
+185.199.111.133               github.map.fastly.net
+151.101.1.194                 github.global.ssl.fastly.net
+151.101.65.194                github.global.ssl.fastly.net
+151.101.129.194               github.global.ssl.fastly.net
+151.101.193.194               github.global.ssl.fastly.net
 140.82.114.3                  gist.github.com
 185.199.108.153               github.io
 185.199.109.153               github.io
@@ -55,6 +68,14 @@
 185.199.109.133               avatars5.githubusercontent.com
 185.199.110.133               avatars5.githubusercontent.com
 185.199.111.133               avatars5.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
 185.199.109.133               avatars2.githubusercontent.com
 185.199.110.133               avatars2.githubusercontent.com
@@ -135,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2023年12月11日 上午8:34:16
+# Update at: 2023年12月11日 上午9:25:49
 
 # GitHub Host End
 ```
