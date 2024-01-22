@@ -81,14 +81,14 @@
 52.216.32.129                 github-cloud.s3.amazonaws.com
 52.217.34.20                  github-cloud.s3.amazonaws.com
 52.217.137.25                 github-cloud.s3.amazonaws.com
-3.5.9.100                     github-com.s3.amazonaws.com
-52.216.50.17                  github-com.s3.amazonaws.com
-52.217.43.156                 github-com.s3.amazonaws.com
-52.217.81.156                 github-com.s3.amazonaws.com
-52.217.117.73                 github-com.s3.amazonaws.com
-52.217.126.33                 github-com.s3.amazonaws.com
-52.217.168.73                 github-com.s3.amazonaws.com
-54.231.193.161                github-com.s3.amazonaws.com
+3.5.0.204                     github-com.s3.amazonaws.com
+3.5.10.142                    github-com.s3.amazonaws.com
+52.216.128.107                github-com.s3.amazonaws.com
+52.216.185.36                 github-com.s3.amazonaws.com
+52.216.204.203                github-com.s3.amazonaws.com
+52.217.70.20                  github-com.s3.amazonaws.com
+52.217.111.220                github-com.s3.amazonaws.com
+52.217.233.129                github-com.s3.amazonaws.com
 3.5.25.167                    github-production-release-asset-2e65be.s3.amazonaws.com
 16.182.42.25                  github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.60.73                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -136,6 +136,6 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年1月22日 下午3:26:01
+# Update at: 2024年1月22日 下午6:25:47
 
 # GitHub Host End
