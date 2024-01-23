@@ -17,8 +17,17 @@ if [ -f "$FILE" ]; then
 else
     mvn clean package -DskipTests
 fi
-
+# 开始获取Github的hosts信息
 $JAVA_HOME/bin/java -jar target/github-hosts-1.0-SNAPSHOT.jar
+# 将获取到的信息注入本机hosts中
+FILE=$APP_PATH/hosts.base
+if [ -f "$FILE" ]; then
+   echo "$FILE exist"
+   cat $FILE > /etc/hosts
+else
+   echo "$FILE not exist"
+fi
+cat hosts > /etc/hosts
 
 # 记录任务完成的时间
 echo '完成时间：' `date` >> ./runLog
