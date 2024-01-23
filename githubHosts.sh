@@ -27,6 +27,7 @@ if [ -f "$FILE" ]; then
 else
    echo "$FILE not exist"
 fi
+# 获取到的Github相关hosts追加到其中
 cat hosts >> /etc/hosts
 
 # 记录任务完成的时间
