@@ -27,7 +27,7 @@ if [ -f "$FILE" ]; then
 else
    echo "$FILE not exist"
 fi
-cat hosts > /etc/hosts
+cat hosts >> /etc/hosts
 
 # 记录任务完成的时间
 echo '完成时间：' `date` >> ./runLog
