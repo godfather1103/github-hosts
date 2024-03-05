@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年3月5日 下午10:28:34
+内容定时更新，最近更新时间：2024年3月6日 上午2:25:35
 
 ```javascript
 # GitHub Host Start
@@ -92,6 +92,23 @@
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
+140.82.114.10                 codeload.github.com
+3.5.20.177                    github-cloud.s3.amazonaws.com
+3.5.29.208                    github-cloud.s3.amazonaws.com
+16.182.101.57                 github-cloud.s3.amazonaws.com
+52.216.37.201                 github-cloud.s3.amazonaws.com
+52.216.109.59                 github-cloud.s3.amazonaws.com
+52.216.139.163                github-cloud.s3.amazonaws.com
+54.231.134.33                 github-cloud.s3.amazonaws.com
+54.231.140.105                github-cloud.s3.amazonaws.com
+3.5.20.16                     github-com.s3.amazonaws.com
+3.5.25.135                    github-com.s3.amazonaws.com
+16.182.69.57                  github-com.s3.amazonaws.com
+16.182.96.73                  github-com.s3.amazonaws.com
+52.216.222.145                github-com.s3.amazonaws.com
+52.217.82.220                 github-com.s3.amazonaws.com
+52.217.141.137                github-com.s3.amazonaws.com
+54.231.139.73                 github-com.s3.amazonaws.com
 3.5.28.113                    github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.29.108                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.216.51.25                  github-production-release-asset-2e65be.s3.amazonaws.com
@@ -139,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年3月5日 下午10:28:34
+# Update at: 2024年3月6日 上午2:25:35
 
 # GitHub Host End
 ```
