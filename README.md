@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年6月14日 下午1:26:41
+内容定时更新，最近更新时间：2024年6月14日 下午10:27:05
 
 ```javascript
 # GitHub Host Start
@@ -109,14 +109,14 @@
 52.217.98.236                 github-com.s3.amazonaws.com
 54.231.136.9                  github-com.s3.amazonaws.com
 54.231.200.193                github-com.s3.amazonaws.com
-3.5.22.29                     github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.25.197                    github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.98.169                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.69.60                  github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.140.193                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.162.73                 github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.202.137                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.232.113                github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.25.195                    github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.28.68                     github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.36.121                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.50.209                 github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.218.177                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.41.116                 github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.171.113                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.233.105                github-production-release-asset-2e65be.s3.amazonaws.com
 16.182.71.209                 github-production-user-asset-6210df.s3.amazonaws.com
 16.182.107.1                  github-production-user-asset-6210df.s3.amazonaws.com
 52.216.218.121                github-production-user-asset-6210df.s3.amazonaws.com
@@ -156,7 +156,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年6月14日 下午1:26:41
+# Update at: 2024年6月14日 下午10:27:05
 
 # GitHub Host End
 ```
