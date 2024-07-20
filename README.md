@@ -15,31 +15,11 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年7月20日 上午2:40:34
+内容定时更新，最近更新时间：2024年7月20日 下午1:45:02
 
 ```javascript
 # GitHub Host Start
 
-185.199.108.133               avatars5.githubusercontent.com
-185.199.109.133               avatars5.githubusercontent.com
-185.199.110.133               avatars5.githubusercontent.com
-185.199.111.133               avatars5.githubusercontent.com
-185.199.108.133               avatars4.githubusercontent.com
-185.199.109.133               avatars4.githubusercontent.com
-185.199.110.133               avatars4.githubusercontent.com
-185.199.111.133               avatars4.githubusercontent.com
-185.199.108.133               avatars3.githubusercontent.com
-185.199.109.133               avatars3.githubusercontent.com
-185.199.110.133               avatars3.githubusercontent.com
-185.199.111.133               avatars3.githubusercontent.com
-185.199.108.133               avatars2.githubusercontent.com
-185.199.109.133               avatars2.githubusercontent.com
-185.199.110.133               avatars2.githubusercontent.com
-185.199.111.133               avatars2.githubusercontent.com
-185.199.108.133               avatars1.githubusercontent.com
-185.199.109.133               avatars1.githubusercontent.com
-185.199.110.133               avatars1.githubusercontent.com
-185.199.111.133               avatars1.githubusercontent.com
 185.199.108.133               avatars0.githubusercontent.com
 185.199.109.133               avatars0.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
@@ -112,7 +92,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年7月20日 上午2:40:34
+# Update at: 2024年7月20日 下午1:45:02
 
 # GitHub Host End
 ```
