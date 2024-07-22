@@ -15,28 +15,11 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年7月22日 下午1:31:23
+内容定时更新，最近更新时间：2024年7月22日 下午10:36:32
 
 ```javascript
 # GitHub Host Start
 
-185.199.108.133               camo.githubusercontent.com
-185.199.109.133               camo.githubusercontent.com
-185.199.110.133               camo.githubusercontent.com
-185.199.111.133               camo.githubusercontent.com
-185.199.108.133               github.map.fastly.net
-185.199.109.133               github.map.fastly.net
-185.199.110.133               github.map.fastly.net
-185.199.111.133               github.map.fastly.net
-151.101.1.194                 github.global.ssl.fastly.net
-151.101.65.194                github.global.ssl.fastly.net
-151.101.129.194               github.global.ssl.fastly.net
-151.101.193.194               github.global.ssl.fastly.net
-140.82.112.4                  gist.github.com
-185.199.108.153               github.io
-185.199.109.153               github.io
-185.199.110.153               github.io
-185.199.111.153               github.io
 140.82.113.3                  github.com
 140.82.112.5                  api.github.com
 185.199.108.133               raw.githubusercontent.com
@@ -80,14 +63,14 @@
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
 140.82.113.10                 codeload.github.com
-3.5.7.110                     github-cloud.s3.amazonaws.com
-3.5.25.249                    github-cloud.s3.amazonaws.com
-3.5.28.119                    github-cloud.s3.amazonaws.com
-52.216.32.137                 github-cloud.s3.amazonaws.com
-52.217.96.4                   github-cloud.s3.amazonaws.com
-52.217.114.105                github-cloud.s3.amazonaws.com
-52.217.133.137                github-cloud.s3.amazonaws.com
-52.217.171.57                 github-cloud.s3.amazonaws.com
+3.5.8.134                     github-cloud.s3.amazonaws.com
+16.182.68.137                 github-cloud.s3.amazonaws.com
+52.216.132.59                 github-cloud.s3.amazonaws.com
+52.216.137.116                github-cloud.s3.amazonaws.com
+52.216.145.83                 github-cloud.s3.amazonaws.com
+52.216.213.121                github-cloud.s3.amazonaws.com
+52.217.136.137                github-cloud.s3.amazonaws.com
+52.217.173.1                  github-cloud.s3.amazonaws.com
 3.5.29.111                    github-com.s3.amazonaws.com
 3.5.29.129                    github-com.s3.amazonaws.com
 3.5.29.168                    github-com.s3.amazonaws.com
@@ -143,7 +126,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年7月22日 下午1:31:23
+# Update at: 2024年7月22日 下午10:36:32
 
 # GitHub Host End
 ```
