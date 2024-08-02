@@ -15,11 +15,69 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年8月2日 下午10:49:50
+内容定时更新，最近更新时间：2024年8月3日 上午2:36:27
 
 ```javascript
 # GitHub Host Start
 
+140.82.112.6                  api.github.com
+185.199.108.133               raw.githubusercontent.com
+185.199.109.133               raw.githubusercontent.com
+185.199.110.133               raw.githubusercontent.com
+185.199.111.133               raw.githubusercontent.com
+185.199.108.133               user-images.githubusercontent.com
+185.199.109.133               user-images.githubusercontent.com
+185.199.110.133               user-images.githubusercontent.com
+185.199.111.133               user-images.githubusercontent.com
+185.199.108.133               favicons.githubusercontent.com
+185.199.109.133               favicons.githubusercontent.com
+185.199.110.133               favicons.githubusercontent.com
+185.199.111.133               favicons.githubusercontent.com
+185.199.108.133               avatars5.githubusercontent.com
+185.199.109.133               avatars5.githubusercontent.com
+185.199.110.133               avatars5.githubusercontent.com
+185.199.111.133               avatars5.githubusercontent.com
+185.199.108.133               avatars4.githubusercontent.com
+185.199.109.133               avatars4.githubusercontent.com
+185.199.110.133               avatars4.githubusercontent.com
+185.199.111.133               avatars4.githubusercontent.com
+185.199.108.133               avatars3.githubusercontent.com
+185.199.109.133               avatars3.githubusercontent.com
+185.199.110.133               avatars3.githubusercontent.com
+185.199.111.133               avatars3.githubusercontent.com
+185.199.108.133               avatars2.githubusercontent.com
+185.199.109.133               avatars2.githubusercontent.com
+185.199.110.133               avatars2.githubusercontent.com
+185.199.111.133               avatars2.githubusercontent.com
+185.199.108.133               avatars1.githubusercontent.com
+185.199.109.133               avatars1.githubusercontent.com
+185.199.110.133               avatars1.githubusercontent.com
+185.199.111.133               avatars1.githubusercontent.com
+185.199.108.133               avatars0.githubusercontent.com
+185.199.109.133               avatars0.githubusercontent.com
+185.199.110.133               avatars0.githubusercontent.com
+185.199.111.133               avatars0.githubusercontent.com
+185.199.108.133               avatars.githubusercontent.com
+185.199.109.133               avatars.githubusercontent.com
+185.199.110.133               avatars.githubusercontent.com
+185.199.111.133               avatars.githubusercontent.com
+140.82.112.10                 codeload.github.com
+3.5.28.94                     github-cloud.s3.amazonaws.com
+16.182.72.73                  github-cloud.s3.amazonaws.com
+16.182.74.49                  github-cloud.s3.amazonaws.com
+52.216.37.209                 github-cloud.s3.amazonaws.com
+52.217.88.116                 github-cloud.s3.amazonaws.com
+54.231.133.217                github-cloud.s3.amazonaws.com
+54.231.201.17                 github-cloud.s3.amazonaws.com
+54.231.234.81                 github-cloud.s3.amazonaws.com
+3.5.27.32                     github-com.s3.amazonaws.com
+52.216.221.1                  github-com.s3.amazonaws.com
+52.217.96.100                 github-com.s3.amazonaws.com
+52.217.112.105                github-com.s3.amazonaws.com
+52.217.133.145                github-com.s3.amazonaws.com
+52.217.140.177                github-com.s3.amazonaws.com
+52.217.199.105                github-com.s3.amazonaws.com
+52.217.207.65                 github-com.s3.amazonaws.com
 3.5.8.185                     github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.25.93                     github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.29.124                    github-production-release-asset-2e65be.s3.amazonaws.com
@@ -67,7 +125,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年8月2日 下午10:49:50
+# Update at: 2024年8月3日 上午2:36:27
 
 # GitHub Host End
 ```
