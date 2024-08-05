@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年8月5日 下午10:26:27
+内容定时更新，最近更新时间：2024年8月6日 上午2:27:00
 
 ```javascript
 # GitHub Host Start
@@ -50,8 +50,6 @@
 185.199.109.153               github.io
 185.199.110.153               github.io
 185.199.111.153               github.io
-140.82.112.3                  github.com
-140.82.112.6                  api.github.com
 185.199.108.133               raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
@@ -84,10 +82,6 @@
 185.199.109.133               avatars1.githubusercontent.com
 185.199.110.133               avatars1.githubusercontent.com
 185.199.111.133               avatars1.githubusercontent.com
-185.199.108.133               avatars0.githubusercontent.com
-185.199.109.133               avatars0.githubusercontent.com
-185.199.110.133               avatars0.githubusercontent.com
-185.199.111.133               avatars0.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.109.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
@@ -109,30 +103,6 @@
 54.231.138.113                github-com.s3.amazonaws.com
 54.231.228.209                github-com.s3.amazonaws.com
 54.231.230.121                github-com.s3.amazonaws.com
-3.5.8.185                     github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.25.93                     github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.29.124                    github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.33.89                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.41.9                   github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.107.217                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.40.4                   github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.203.121                github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.13.41                     github-production-user-asset-6210df.s3.amazonaws.com
-16.182.33.193                 github-production-user-asset-6210df.s3.amazonaws.com
-16.182.73.73                  github-production-user-asset-6210df.s3.amazonaws.com
-52.216.44.57                  github-production-user-asset-6210df.s3.amazonaws.com
-52.217.46.244                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.200.89                 github-production-user-asset-6210df.s3.amazonaws.com
-52.217.233.113                github-production-user-asset-6210df.s3.amazonaws.com
-54.231.224.161                github-production-user-asset-6210df.s3.amazonaws.com
-3.5.27.71                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.182.32.33                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.10.187                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.91.52                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.133.129                github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.231.185                github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.132.129                github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.225.81                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 185.199.109.153               githubstatus.com
 185.199.110.153               githubstatus.com
@@ -142,7 +112,6 @@
 185.199.109.133               media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-4.249.131.160                 copilot-proxy.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
 185.199.109.133               cloud.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
@@ -156,7 +125,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年8月5日 下午10:26:27
+# Update at: 2024年8月6日 上午2:27:00
 
 # GitHub Host End
 ```
