@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年9月13日 下午1:26:55
+内容定时更新，最近更新时间：2024年9月13日 下午10:27:35
 
 ```javascript
 # GitHub Host Start
@@ -121,22 +121,22 @@
 16.182.72.113                 github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.29.54                     github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.194.241                github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.211.161                github-production-user-asset-6210df.s3.amazonaws.com
-3.5.10.110                    github-production-user-asset-6210df.s3.amazonaws.com
-52.217.166.145                github-production-user-asset-6210df.s3.amazonaws.com
-3.5.29.142                    github-production-user-asset-6210df.s3.amazonaws.com
-16.182.105.145                github-production-user-asset-6210df.s3.amazonaws.com
-52.217.132.57                 github-production-user-asset-6210df.s3.amazonaws.com
-3.5.0.3                       github-production-user-asset-6210df.s3.amazonaws.com
-54.231.203.41                 github-production-user-asset-6210df.s3.amazonaws.com
-3.5.29.93                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.29.40                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.216.134.27                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.7.164                     github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.82.92                  github-production-repository-file-5c1aeb.s3.amazonaws.com
-54.231.162.49                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-3.5.11.228                    github-production-repository-file-5c1aeb.s3.amazonaws.com
-52.217.87.188                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.130.153                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.227.129                github-production-user-asset-6210df.s3.amazonaws.com
+52.216.26.20                  github-production-user-asset-6210df.s3.amazonaws.com
+52.217.166.41                 github-production-user-asset-6210df.s3.amazonaws.com
+52.217.173.145                github-production-user-asset-6210df.s3.amazonaws.com
+54.231.204.97                 github-production-user-asset-6210df.s3.amazonaws.com
+3.5.9.165                     github-production-user-asset-6210df.s3.amazonaws.com
+54.231.162.241                github-production-user-asset-6210df.s3.amazonaws.com
+52.217.170.145                github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.17.135                    github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.170.219                github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.139.121                github-production-repository-file-5c1aeb.s3.amazonaws.com
+3.5.25.77                     github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.140.97                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+54.231.192.105                github-production-repository-file-5c1aeb.s3.amazonaws.com
+52.216.110.187                github-production-repository-file-5c1aeb.s3.amazonaws.com
 185.199.108.153               githubstatus.com
 185.199.109.153               githubstatus.com
 185.199.111.153               githubstatus.com
@@ -160,7 +160,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年9月13日 下午1:26:55
+# Update at: 2024年9月13日 下午10:27:35
 
 # GitHub Host End
 ```
