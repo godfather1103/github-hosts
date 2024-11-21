@@ -9,6 +9,7 @@
 
 - 站点地址：[https://github.com/godfather1103/github-hosts](https://github.com/godfather1103/github-hosts)
 - 站点地址：[https://gitcode.net/godfather1103/github-hosts](https://gitcode.net/godfather1103/github-hosts)
+- 站点地址：[https://gitcode.com/godfather1103/github-hosts](https://gitcode.com/godfather1103/github-hosts)
 - 站点地址：[https://gitee.com/godfather1103/github-hosts](https://gitee.com/godfather1103/github-hosts)
 
 ## 使用方法
@@ -227,6 +228,7 @@ ipconfig /flushdns
 - Hosts标题：github-hosts（自定义即可）
 - URL：[https://github.com/godfather1103/github-hosts/raw/master/hosts](https://github.com/godfather1103/github-hosts/raw/master/hosts)
 - URL：[https://gitcode.net/godfather1103/github-hosts/-/raw/master/hosts](https://gitcode.net/godfather1103/github-hosts/-/raw/master/hosts)
+- URL：[https://raw.gitcode.com/godfather1103/github-hosts/raw/master/hosts](https://raw.gitcode.com/godfather1103/github-hosts/raw/master/hosts)
 - URL：[https://gitee.com/godfather1103/github-hosts/raw/master/hosts](https://gitee.com/godfather1103/github-hosts/raw/master/hosts)
 - 自动刷新：1小时
 
