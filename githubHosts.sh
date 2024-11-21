@@ -31,11 +31,10 @@ fi
 cat hosts >> /etc/hosts
 
 # 记录任务完成的时间
-echo '完成时间：' `date` >> ./runLog
+echo '完成时间：' `date` > ./runLog
 
 git status
 git add .
 git commit -m "updated latest hosts"
 git push
-echo '!!! push success ！！！时间：' `date` >> ./runLog
 
