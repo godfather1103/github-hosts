@@ -30,9 +30,6 @@ fi
 # 获取到的Github相关hosts追加到其中
 cat hosts >> /etc/hosts
 
-# 记录任务完成的时间
-echo '完成时间：' `date` > ./runLog
-
 git status
 git add .
 git commit -m "updated latest hosts"
