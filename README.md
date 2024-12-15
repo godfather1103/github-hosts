@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年12月15日 下午1:25:36
+内容定时更新，最近更新时间：2024年12月15日 下午10:26:46
 
 ```javascript
 # GitHub Host Start
@@ -53,10 +53,10 @@
 185.199.110.133               github.map.fastly.net
 185.199.111.133               github.map.fastly.net
 10.1.10.172                   github.map.fastly.net
-192.168.178.40                github.global.ssl.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
-192.168.253.10                github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
+10.10.8.50                    github.global.ssl.fastly.net
+192.168.31.85                 github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
 192.168.229.58                gist.github.com
@@ -70,17 +70,17 @@
 185.199.111.153               github.io
 10.73.0.201                   github.io
 185.199.110.153               github.io
-140.82.114.3                  github.com
-10.4.13.50                    github.com
+140.82.112.3                  github.com
+10.217.152.9                  github.com
 166.78.69.169                 github.com
 192.30.252.0                  github.com
-10.100.0.46                   github.com
+127.0.0.1                     github.com
 10.166.76.14                  api.github.com
 10.200.10.47                  api.github.com
 140.82.113.6                  api.github.com
-10.0.2.200                    raw.githubusercontent.com
-192.168.115.1                 raw.githubusercontent.com
+192.168.148.246               raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
+192.168.2.34                  raw.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
@@ -108,9 +108,9 @@
 10.68.0.154                   avatars4.githubusercontent.com
 185.199.110.133               avatars4.githubusercontent.com
 185.199.111.133               avatars4.githubusercontent.com
-10.244.244.244                avatars3.githubusercontent.com
+192.168.105.50                avatars3.githubusercontent.com
+10.185.5.223                  avatars3.githubusercontent.com
 185.199.109.133               avatars3.githubusercontent.com
-10.196.10.54                  avatars3.githubusercontent.com
 185.199.108.133               avatars3.githubusercontent.com
 185.199.110.133               avatars3.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
@@ -138,19 +138,19 @@
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
 169.254.9.190                 avatars.githubusercontent.com
-172.16.1.224                  codeload.github.com
+203.0.113.42                  codeload.github.com
 140.82.113.10                 codeload.github.com
-10.1.1.205                    codeload.github.com
-52.216.136.19                 github-cloud.s3.amazonaws.com
-3.5.25.244                    github-cloud.s3.amazonaws.com
-54.231.161.249                github-cloud.s3.amazonaws.com
-169.254.207.162               github-cloud.s3.amazonaws.com
-52.217.140.193                github-cloud.s3.amazonaws.com
-52.217.46.252                 github-cloud.s3.amazonaws.com
-10.1.0.17                     github-cloud.s3.amazonaws.com
-3.5.28.250                    github-cloud.s3.amazonaws.com
-16.15.179.102                 github-cloud.s3.amazonaws.com
-16.182.36.169                 github-cloud.s3.amazonaws.com
+10.0.10.16                    codeload.github.com
+16.15.176.251                 github-cloud.s3.amazonaws.com
+52.217.88.172                 github-cloud.s3.amazonaws.com
+3.5.27.26                     github-cloud.s3.amazonaws.com
+172.16.25.1                   github-cloud.s3.amazonaws.com
+192.168.13.42                 github-cloud.s3.amazonaws.com
+3.5.28.79                     github-cloud.s3.amazonaws.com
+52.216.246.84                 github-cloud.s3.amazonaws.com
+16.182.40.193                 github-cloud.s3.amazonaws.com
+54.231.194.129                github-cloud.s3.amazonaws.com
+16.15.177.51                  github-cloud.s3.amazonaws.com
 16.182.37.73                  github-com.s3.amazonaws.com
 54.231.197.161                github-com.s3.amazonaws.com
 3.5.25.110                    github-com.s3.amazonaws.com
@@ -218,17 +218,17 @@
 192.168.178.241               pipelines.actions.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 172.19.170.184                pipelines.actions.githubusercontent.com
-192.168.68.82                 objects.githubusercontent.com
-10.1.150.23                   objects.githubusercontent.com
+192.168.56.227                objects.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
+172.18.19.100                 objects.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
 
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年12月15日 下午1:25:36
+# Update at: 2024年12月15日 下午10:26:46
 
 # GitHub Host End
 ```
