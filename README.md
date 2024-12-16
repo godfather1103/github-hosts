@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2024年12月16日 下午10:26:36
+内容定时更新，最近更新时间：2024年12月17日 上午2:25:36
 
 ```javascript
 # GitHub Host Start
@@ -26,9 +26,9 @@
 10.0.10.16                    github.githubassets.com
 185.199.110.154               github.githubassets.com
 185.199.111.154               github.githubassets.com
-172.16.40.3                   central.github.com
+10.40.115.188                 central.github.com
 140.82.112.21                 central.github.com
-172.22.1.3                    central.github.com
+192.168.100.75                central.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.108.133               desktop.githubusercontent.com
 185.199.110.133               desktop.githubusercontent.com
@@ -59,29 +59,29 @@
 10.25.24.5                    github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
-10.7.7.76                     gist.github.com
+192.168.19.204                gist.github.com
 140.82.112.4                  gist.github.com
 166.78.69.169                 gist.github.com
 192.30.252.0                  gist.github.com
-10.8.84.88                    gist.github.com
-10.10.3.40                    github.io
+172.16.16.27                  gist.github.com
+192.168.155.227               github.io
 185.199.108.153               github.io
 185.199.109.153               github.io
-10.0.10.16                    github.io
 185.199.111.153               github.io
 185.199.110.153               github.io
+10.0.0.63                     github.io
 140.82.112.3                  github.com
+10.0.0.37                     github.com
 166.78.69.169                 github.com
+192.168.18.34                 github.com
 192.30.252.0                  github.com
-192.168.10.209                github.com
-10.200.7.92                   github.com
-100.100.0.5                   api.github.com
-10.1.30.15                    api.github.com
+192.168.226.115               api.github.com
+169.254.61.39                 api.github.com
 140.82.113.6                  api.github.com
+192.168.7.192                 raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
-172.23.130.237                raw.githubusercontent.com
-10.10.50.63                   raw.githubusercontent.com
+169.254.158.58                raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 192.168.255.34                user-images.githubusercontent.com
@@ -138,8 +138,8 @@
 185.199.108.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
-10.10.29.20                   codeload.github.com
-192.168.30.141                codeload.github.com
+192.168.226.115               codeload.github.com
+169.254.61.39                 codeload.github.com
 140.82.113.10                 codeload.github.com
 16.15.176.251                 github-cloud.s3.amazonaws.com
 52.217.88.172                 github-cloud.s3.amazonaws.com
@@ -200,12 +200,12 @@
 140.82.112.18                 github.community
 192.168.255.34                github.community
 172.31.144.44                 github.community
-192.168.255.34                media.githubusercontent.com
-172.31.144.44                 media.githubusercontent.com
 185.199.109.133               media.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
+10.166.105.251                media.githubusercontent.com
+172.31.0.0                    media.githubusercontent.com
 192.168.255.34                copilot-proxy.githubusercontent.com
 172.31.144.44                 copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
@@ -218,17 +218,17 @@
 192.168.255.34                pipelines.actions.githubusercontent.com
 172.31.144.44                 pipelines.actions.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
-192.168.56.227                objects.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
-172.18.19.100                 objects.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 185.199.111.133               objects.githubusercontent.com
+10.166.105.251                objects.githubusercontent.com
+172.31.0.0                    objects.githubusercontent.com
 
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2024年12月16日 下午10:26:36
+# Update at: 2024年12月17日 上午2:25:36
 
 # GitHub Host End
 ```
