@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2025年1月10日 下午10:25:59
+内容定时更新，最近更新时间：2025年1月11日 上午2:25:37
 
 ```javascript
 # GitHub Host Start
@@ -47,22 +47,22 @@
 185.199.108.133               camo.githubusercontent.com
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
+192.168.50.58                 github.map.fastly.net
 185.199.109.133               github.map.fastly.net
-172.16.14.190                 github.map.fastly.net
+192.168.131.143               github.map.fastly.net
 185.199.108.133               github.map.fastly.net
-10.5.10.1                     github.map.fastly.net
 185.199.110.133               github.map.fastly.net
 185.199.111.133               github.map.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
-172.16.200.146                github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
+10.6.2.53                     github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
-10.12.29.123                  github.global.ssl.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
+10.100.100.81                 github.global.ssl.fastly.net
+192.168.50.58                 gist.github.com
 140.82.112.3                  gist.github.com
-192.168.10.92                 gist.github.com
+192.168.131.143               gist.github.com
 166.78.69.169                 gist.github.com
-10.190.22.10                  gist.github.com
 192.30.252.0                  gist.github.com
 10.0.1.117                    github.io
 185.199.108.153               github.io
@@ -206,13 +206,13 @@
 172.31.11.201                 media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-10.0.1.117                    copilot-proxy.githubusercontent.com
+192.168.50.58                 copilot-proxy.githubusercontent.com
+192.168.131.143               copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
-228.102.215.14                copilot-proxy.githubusercontent.com
-10.0.2.147                    cloud.githubusercontent.com
 185.199.109.133               cloud.githubusercontent.com
+10.0.1.117                    cloud.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
-10.0.0.186                    cloud.githubusercontent.com
+228.102.215.14                cloud.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
 10.45.2.7                     pipelines.actions.githubusercontent.com
@@ -228,7 +228,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月10日 下午10:25:59
+# Update at: 2025年1月11日 上午2:25:37
 
 # GitHub Host End
 ```
