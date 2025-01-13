@@ -15,32 +15,32 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2025年1月13日 下午1:25:37
+内容定时更新，最近更新时间：2025年1月13日 下午10:26:50
 
 ```javascript
 # GitHub Host Start
 
-10.100.2.7                    github.githubassets.com
 185.199.108.154               github.githubassets.com
 185.199.109.154               github.githubassets.com
-192.168.100.157               github.githubassets.com
+172.16.20.250                 github.githubassets.com
+10.0.2.72                     github.githubassets.com
 185.199.110.154               github.githubassets.com
 185.199.111.154               github.githubassets.com
-192.168.100.9                 central.github.com
 140.82.112.21                 central.github.com
-192.168.1.81                  central.github.com
-192.168.100.9                 desktop.githubusercontent.com
+192.168.0.113                 central.github.com
+172.30.12.213                 central.github.com
 185.199.109.133               desktop.githubusercontent.com
 185.199.108.133               desktop.githubusercontent.com
-192.168.1.81                  desktop.githubusercontent.com
+192.168.0.113                 desktop.githubusercontent.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.111.133               desktop.githubusercontent.com
-172.16.16.9                   assets-cdn.github.com
+172.30.12.213                 desktop.githubusercontent.com
+10.1.0.43                     assets-cdn.github.com
 185.199.108.153               assets-cdn.github.com
 185.199.109.153               assets-cdn.github.com
 185.199.111.153               assets-cdn.github.com
 185.199.110.153               assets-cdn.github.com
-192.0.0.25                    assets-cdn.github.com
+192.168.178.30                assets-cdn.github.com
 185.199.109.133               camo.githubusercontent.com
 10.1.1.140                    camo.githubusercontent.com
 185.199.108.133               camo.githubusercontent.com
@@ -60,28 +60,28 @@
 10.206.2.18                   github.global.ssl.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
-192.168.18.4                  gist.github.com
+10.211.55.3                   gist.github.com
 166.78.69.169                 gist.github.com
+10.0.0.145                    gist.github.com
 192.30.252.0                  gist.github.com
-192.168.29.135                gist.github.com
-192.168.50.120                github.io
+192.168.29.118                github.io
+192.168.233.5                 github.io
 185.199.108.153               github.io
 185.199.109.153               github.io
-10.1.10.241                   github.io
 185.199.111.153               github.io
 185.199.110.153               github.io
 140.82.114.3                  github.com
-10.0.0.71                     github.com
+192.168.18.22                 github.com
 166.78.69.169                 github.com
 192.30.252.0                  github.com
-172.17.0.13                   github.com
-10.0.10.52                    api.github.com
+10.100.5.5                    github.com
+192.168.0.137                 api.github.com
+10.0.4.120                    api.github.com
 140.82.114.6                  api.github.com
-10.42.37.175                  api.github.com
-10.120.8.9                    raw.githubusercontent.com
-172.30.1.250                  raw.githubusercontent.com
+10.0.10.60                    raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
 185.199.108.133               raw.githubusercontent.com
+10.162.130.231                raw.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.111.133               raw.githubusercontent.com
 185.199.109.133               user-images.githubusercontent.com
@@ -114,11 +114,11 @@
 10.206.2.18                   avatars3.githubusercontent.com
 185.199.110.133               avatars3.githubusercontent.com
 185.199.111.133               avatars3.githubusercontent.com
-192.168.4.27                  avatars2.githubusercontent.com
 185.199.109.133               avatars2.githubusercontent.com
 185.199.108.133               avatars2.githubusercontent.com
+10.254.244.221                avatars2.githubusercontent.com
 185.199.110.133               avatars2.githubusercontent.com
-192.168.0.5                   avatars2.githubusercontent.com
+10.0.3.95                     avatars2.githubusercontent.com
 185.199.111.133               avatars2.githubusercontent.com
 185.199.109.133               avatars1.githubusercontent.com
 185.199.108.133               avatars1.githubusercontent.com
@@ -132,9 +132,9 @@
 192.168.4.245                 avatars0.githubusercontent.com
 185.199.110.133               avatars0.githubusercontent.com
 185.199.111.133               avatars0.githubusercontent.com
-10.1.1.108                    avatars.githubusercontent.com
+10.0.20.150                   avatars.githubusercontent.com
+192.168.0.105                 avatars.githubusercontent.com
 185.199.109.133               avatars.githubusercontent.com
-10.216.240.21                 avatars.githubusercontent.com
 185.199.108.133               avatars.githubusercontent.com
 185.199.110.133               avatars.githubusercontent.com
 185.199.111.133               avatars.githubusercontent.com
@@ -144,13 +144,13 @@
 54.231.230.65                 github-cloud.s3.amazonaws.com
 3.5.25.253                    github-cloud.s3.amazonaws.com
 52.217.91.156                 github-cloud.s3.amazonaws.com
-192.168.5.190                 github-cloud.s3.amazonaws.com
 16.182.72.89                  github-cloud.s3.amazonaws.com
+10.10.228.1                   github-cloud.s3.amazonaws.com
 3.5.30.120                    github-cloud.s3.amazonaws.com
-0.77.167.101                  github-cloud.s3.amazonaws.com
 54.231.135.209                github-cloud.s3.amazonaws.com
 3.5.25.98                     github-cloud.s3.amazonaws.com
 52.216.76.52                  github-cloud.s3.amazonaws.com
+192.168.0.186                 github-cloud.s3.amazonaws.com
 52.217.116.49                 github-com.s3.amazonaws.com
 3.5.7.105                     github-com.s3.amazonaws.com
 54.231.230.193                github-com.s3.amazonaws.com
@@ -162,61 +162,61 @@
 172.17.0.68                   github-com.s3.amazonaws.com
 16.15.184.108                 github-com.s3.amazonaws.com
 16.182.108.113                github-production-release-asset-2e65be.s3.amazonaws.com
+0.1.121.0                     github-production-release-asset-2e65be.s3.amazonaws.com
 16.182.68.89                  github-production-release-asset-2e65be.s3.amazonaws.com
-192.168.0.116                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.206.33                 github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.27.42                     github-production-release-asset-2e65be.s3.amazonaws.com
 16.15.200.76                  github-production-release-asset-2e65be.s3.amazonaws.com
 16.182.74.241                 github-production-release-asset-2e65be.s3.amazonaws.com
-169.254.214.99                github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.29.197                    github-production-release-asset-2e65be.s3.amazonaws.com
 3.5.28.20                     github-production-release-asset-2e65be.s3.amazonaws.com
+192.168.5.1                   github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.96.108                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.192.249                github-production-user-asset-6210df.s3.amazonaws.com
-192.168.5.190                 github-production-user-asset-6210df.s3.amazonaws.com
 3.5.30.47                     github-production-user-asset-6210df.s3.amazonaws.com
+10.10.228.1                   github-production-user-asset-6210df.s3.amazonaws.com
 52.217.167.97                 github-production-user-asset-6210df.s3.amazonaws.com
-0.77.167.101                  github-production-user-asset-6210df.s3.amazonaws.com
 3.5.28.164                    github-production-user-asset-6210df.s3.amazonaws.com
 54.231.229.89                 github-production-user-asset-6210df.s3.amazonaws.com
 3.5.29.21                     github-production-user-asset-6210df.s3.amazonaws.com
 16.182.39.81                  github-production-user-asset-6210df.s3.amazonaws.com
+192.168.0.186                 github-production-user-asset-6210df.s3.amazonaws.com
 3.5.31.106                    github-production-repository-file-5c1aeb.s3.amazonaws.com
 54.231.233.57                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-192.168.5.190                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 3.5.2.232                     github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.51.225                 github-production-repository-file-5c1aeb.s3.amazonaws.com
-0.77.167.101                  github-production-repository-file-5c1aeb.s3.amazonaws.com
+10.10.228.1                   github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.216.215.9                  github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.217.106.124                github-production-repository-file-5c1aeb.s3.amazonaws.com
 16.15.217.244                 github-production-repository-file-5c1aeb.s3.amazonaws.com
 52.217.132.225                github-production-repository-file-5c1aeb.s3.amazonaws.com
-10.5.0.22                     githubstatus.com
+192.168.0.186                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+10.77.8.70                    githubstatus.com
 185.199.108.153               githubstatus.com
 185.199.109.153               githubstatus.com
-10.1.1.31                     githubstatus.com
 185.199.111.153               githubstatus.com
+172.22.1.3                    githubstatus.com
 185.199.110.153               githubstatus.com
 140.82.113.17                 github.community
-192.168.5.190                 github.community
-0.77.167.101                  github.community
+10.10.228.1                   github.community
+192.168.0.186                 github.community
+172.16.10.27                  media.githubusercontent.com
 185.199.109.133               media.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
-172.16.25.40                  media.githubusercontent.com
-192.0.0.168                   media.githubusercontent.com
+238.220.148.184               media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-10.10.228.1                   copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
-192.168.0.186                 copilot-proxy.githubusercontent.com
+192.168.10.16                 copilot-proxy.githubusercontent.com
+10.0.7.245                    copilot-proxy.githubusercontent.com
 185.199.109.133               cloud.githubusercontent.com
 185.199.108.133               cloud.githubusercontent.com
 192.168.40.72                 cloud.githubusercontent.com
 10.206.2.18                   cloud.githubusercontent.com
 185.199.110.133               cloud.githubusercontent.com
 185.199.111.133               cloud.githubusercontent.com
-192.168.18.177                pipelines.actions.githubusercontent.com
-10.10.16.1                    pipelines.actions.githubusercontent.com
+10.0.10.60                    pipelines.actions.githubusercontent.com
+10.162.130.231                pipelines.actions.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.109.133               objects.githubusercontent.com
 185.199.108.133               objects.githubusercontent.com
@@ -228,7 +228,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月13日 下午1:25:37
+# Update at: 2025年1月13日 下午10:26:50
 
 # GitHub Host End
 ```
