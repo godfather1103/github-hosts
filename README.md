@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2025年1月20日 下午10:26:06
+内容定时更新，最近更新时间：2025年1月21日 上午2:25:34
 
 ```javascript
 # GitHub Host Start
@@ -74,8 +74,8 @@
 172.30.12.121                 github.com
 192.30.252.0                  github.com
 10.0.31.248                   github.com
-10.1.10.52                    api.github.com
-10.100.2.19                   api.github.com
+10.0.0.16                     api.github.com
+172.19.1.9                    api.github.com
 140.82.114.6                  api.github.com
 10.30.64.1                    raw.githubusercontent.com
 185.199.109.133               raw.githubusercontent.com
@@ -196,18 +196,18 @@
 185.199.109.153               githubstatus.com
 185.199.111.153               githubstatus.com
 185.199.110.153               githubstatus.com
-172.20.30.5                   github.community
+192.168.101.102               github.community
 140.82.114.17                 github.community
-10.1.6.35                     github.community
-10.10.1.141                   media.githubusercontent.com
+192.168.10.5                  github.community
+192.168.101.102               media.githubusercontent.com
 185.199.109.133               media.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
+192.168.10.5                  media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-10.1.10.160                   media.githubusercontent.com
-192.168.101.102               copilot-proxy.githubusercontent.com
+10.1.0.33                     copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
-192.168.10.5                  copilot-proxy.githubusercontent.com
+10.133.0.20                   copilot-proxy.githubusercontent.com
 192.168.2.247                 cloud.githubusercontent.com
 172.16.254.249                cloud.githubusercontent.com
 185.199.109.133               cloud.githubusercontent.com
@@ -227,7 +227,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月20日 下午10:26:06
+# Update at: 2025年1月21日 上午2:25:34
 
 # GitHub Host End
 ```
