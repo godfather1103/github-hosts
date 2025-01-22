@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2025年1月22日 下午10:26:54
+内容定时更新，最近更新时间：2025年1月23日 上午2:25:35
 
 ```javascript
 # GitHub Host Start
@@ -47,12 +47,12 @@
 185.199.110.133               camo.githubusercontent.com
 185.199.111.133               camo.githubusercontent.com
 10.0.0.52                     camo.githubusercontent.com
-192.168.1.119                 github.map.fastly.net
 185.199.109.133               github.map.fastly.net
 185.199.108.133               github.map.fastly.net
-10.0.0.189                    github.map.fastly.net
 185.199.110.133               github.map.fastly.net
 185.199.111.133               github.map.fastly.net
+10.79.3.107                   github.map.fastly.net
+172.16.7.4                    github.map.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
 172.16.0.40                   github.global.ssl.fastly.net
@@ -159,16 +159,16 @@
 54.231.132.121                github-com.s3.amazonaws.com
 192.168.1.196                 github-com.s3.amazonaws.com
 16.15.184.108                 github-com.s3.amazonaws.com
-16.182.108.113                github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.68.89                  github-production-release-asset-2e65be.s3.amazonaws.com
-192.168.31.251                github-production-release-asset-2e65be.s3.amazonaws.com
-52.217.206.33                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.27.42                     github-production-release-asset-2e65be.s3.amazonaws.com
-16.15.200.76                  github-production-release-asset-2e65be.s3.amazonaws.com
-16.182.74.241                 github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.29.197                    github-production-release-asset-2e65be.s3.amazonaws.com
-172.31.12.24                  github-production-release-asset-2e65be.s3.amazonaws.com
-3.5.28.20                     github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.225.209                github-production-release-asset-2e65be.s3.amazonaws.com
+54.231.204.217                github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.24.44                     github-production-release-asset-2e65be.s3.amazonaws.com
+3.5.30.237                    github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.185.54                  github-production-release-asset-2e65be.s3.amazonaws.com
+192.168.40.242                github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.134.227                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.224.129                github-production-release-asset-2e65be.s3.amazonaws.com
+52.217.228.105                github-production-release-asset-2e65be.s3.amazonaws.com
+192.168.74.40                 github-production-release-asset-2e65be.s3.amazonaws.com
 52.217.96.108                 github-production-user-asset-6210df.s3.amazonaws.com
 52.217.192.249                github-production-user-asset-6210df.s3.amazonaws.com
 192.168.31.251                github-production-user-asset-6210df.s3.amazonaws.com
@@ -195,15 +195,15 @@
 185.199.109.153               githubstatus.com
 185.199.111.153               githubstatus.com
 185.199.110.153               githubstatus.com
+10.0.6.3                      github.community
 140.82.114.17                 github.community
-172.16.1.85                   github.community
-172.16.25.150                 github.community
+100.100.100.88                github.community
+10.0.6.3                      media.githubusercontent.com
 185.199.109.133               media.githubusercontent.com
-172.16.1.85                   media.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
+100.100.100.88                media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-172.16.25.150                 media.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
 172.16.20.4                   copilot-proxy.githubusercontent.com
 10.0.3.111                    copilot-proxy.githubusercontent.com
@@ -226,7 +226,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月22日 下午10:26:54
+# Update at: 2025年1月23日 上午2:25:35
 
 # GitHub Host End
 ```
