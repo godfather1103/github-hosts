@@ -29,10 +29,10 @@
 185.199.111.133               camo.githubusercontent.com
 185.199.109.133               github.map.fastly.net
 185.199.108.133               github.map.fastly.net
+10.0.0.244                    github.map.fastly.net
 185.199.110.133               github.map.fastly.net
+10.200.19.146                 github.map.fastly.net
 185.199.111.133               github.map.fastly.net
-10.79.3.107                   github.map.fastly.net
-172.16.7.4                    github.map.fastly.net
 10.1.1.36                     github.global.ssl.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
@@ -175,17 +175,17 @@
 0.126.53.19                   githubstatus.com
 185.199.111.153               githubstatus.com
 185.199.110.153               githubstatus.com
-10.0.6.3                      github.community
+169.254.0.10                  github.community
 140.82.114.17                 github.community
-100.100.100.88                github.community
-10.0.6.3                      media.githubusercontent.com
+192.168.110.6                 github.community
+169.254.0.10                  media.githubusercontent.com
+192.168.110.6                 media.githubusercontent.com
 185.199.109.133               media.githubusercontent.com
 185.199.108.133               media.githubusercontent.com
-100.100.100.88                media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-169.254.0.10                  copilot-proxy.githubusercontent.com
-192.168.110.6                 copilot-proxy.githubusercontent.com
+172.16.3.123                  copilot-proxy.githubusercontent.com
+172.25.128.1                  copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
 10.0.2.103                    cloud.githubusercontent.com
 172.17.9.12                   cloud.githubusercontent.com
@@ -206,6 +206,6 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月23日 下午10:26:42
+# Update at: 2025年1月24日 上午2:25:33
 
 # GitHub Host End
