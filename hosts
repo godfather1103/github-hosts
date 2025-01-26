@@ -34,10 +34,10 @@
 185.199.111.133               github.map.fastly.net
 192.168.26.200                github.map.fastly.net
 151.101.193.194               github.global.ssl.fastly.net
-192.168.100.39                github.global.ssl.fastly.net
 151.101.65.194                github.global.ssl.fastly.net
-229.219.191.66                github.global.ssl.fastly.net
+172.16.0.6                    github.global.ssl.fastly.net
 151.101.129.194               github.global.ssl.fastly.net
+10.5.50.198                   github.global.ssl.fastly.net
 151.101.1.194                 github.global.ssl.fastly.net
 140.82.114.4                  gist.github.com
 10.91.1.29                    gist.github.com
@@ -184,9 +184,9 @@
 185.199.108.133               media.githubusercontent.com
 185.199.110.133               media.githubusercontent.com
 185.199.111.133               media.githubusercontent.com
-10.0.0.15                     copilot-proxy.githubusercontent.com
+172.16.1.61                   copilot-proxy.githubusercontent.com
 4.249.131.160                 copilot-proxy.githubusercontent.com
-192.168.18.23                 copilot-proxy.githubusercontent.com
+100.76.153.65                 copilot-proxy.githubusercontent.com
 10.1.1.98                     cloud.githubusercontent.com
 10.100.2.1                    cloud.githubusercontent.com
 185.199.109.133               cloud.githubusercontent.com
@@ -206,6 +206,6 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年1月26日 下午10:25:58
+# Update at: 2025年1月27日 上午2:25:34
 
 # GitHub Host End
