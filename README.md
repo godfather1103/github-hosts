@@ -15,7 +15,7 @@
 
 ### hosts
 
-内容定时更新，最近更新时间：2025年2月21日 下午10:39:59
+内容定时更新，最近更新时间：2025年2月22日 上午2:26:15
 
 ```javascript
 # GitHub Host Start
@@ -24,7 +24,7 @@
 # Please Star: https://github.com/godfather1103/github-hosts
 # Please Star: https://gitcode.net/godfather1103/github-hosts
 # Please Star: https://gitee.com/godfather1103/github-hosts
-# Update at: 2025年2月21日 下午10:39:59
+# Update at: 2025年2月22日 上午2:26:15
 
 # GitHub Host End
 ```
